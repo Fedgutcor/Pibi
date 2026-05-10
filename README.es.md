@@ -70,11 +70,23 @@ Las 26 letras (a–z) más el espacio. La entrada se convierte automáticamente 
 
 ---
 
-## Origen del proyecto
+## Sobre este proyecto
 
-Pibi fue desarrollado como proyecto de tesis de pregrado en el [Instituto Tecnológico Metropolitano (ITM)](https://www.itm.edu.co), Medellín, Colombia, en 2018. El objetivo fue construir un dispositivo de asistencia asequible y de código abierto para el aprendizaje del Braille.
+El acceso a la información es un derecho fundamental. El [Tratado de Marrakesh](https://www.wipo.int/treaties/en/ip/marrakesh/) — ratificado por más de 90 países — reconoce que las personas con discapacidad visual tienen derecho a acceder a obras escritas en formatos accesibles. Sin embargo, en la práctica, ese acceso sigue siendo inalcanzable para millones de personas. Pibi nació de esa brecha: de la convicción de que la tecnología debe derribar barreras, no construirlas.
 
-> Gutiérrez Correa, F. (2018). *Conversor digital a Braille — Pibi*. ITM.
+Pibi es un proyecto de código abierto de **[Scire Populi](https://ultragresion.com)**, un colectivo dedicado a construir tecnología abierta para la educación y la accesibilidad. Ha recibido respaldo y apoyo institucional de:
+
+- **[Instituto Tecnológico Metropolitano (ITM)](https://www.itm.edu.co)** — Medellín, Colombia
+- **[SENA](https://www.sena.edu.co)** — Servicio Nacional de Aprendizaje
+- **[Alcaldía de Medellín](https://www.medellin.gov.co)**
+
+El proyecto fue validado con usuarios reales en la **Fundación Aula 5 Sentidos**, cuyo trabajo con personas con discapacidad sensorial le dio a Pibi su retroalimentación más importante: tiene que funcionar para las personas que lo necesitan, no solo en un banco de trabajo.
+
+### Agradecimientos
+
+A todas las personas de la **Fundación Aula 5 Sentidos** que dieron su tiempo y confianza para probar este dispositivo — este proyecto existe gracias a ustedes.  
+Al **ITM**, al **SENA** y a la **Alcaldía de Medellín** por creer que la tecnología abierta y la accesibilidad van de la mano.  
+A cada desarrollador, docente y estudiante que tome esto y lo lleve más lejos.
 
 ---
 

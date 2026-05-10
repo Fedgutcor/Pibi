@@ -70,11 +70,23 @@ All 26 letters (a–z) plus space. Input is automatically converted to lowercase
 
 ---
 
-## Project origin
+## About this project
 
-Pibi was developed as an undergraduate thesis project at [Instituto Tecnológico Metropolitano (ITM)](https://www.itm.edu.co), Medellín, Colombia, in 2018. The goal was to build an affordable, open-source assistive device for Braille learning.
+Access to information is a fundamental right. The [Marrakesh Treaty](https://www.wipo.int/treaties/en/ip/marrakesh/) — adopted by over 90 countries — recognizes that people with visual disabilities have the right to access written works in accessible formats. Yet in practice, that access remains out of reach for millions. Pibi was born from that gap: the conviction that technology should remove barriers, not create them.
 
-> Gutierrez Correa, F. (2018). *Digital to Braille converter — Pibi*. ITM.
+Pibi is an open source project by **[Scire Populi](https://ultragresion.com)**, a collective dedicated to building open technology for education and accessibility. It has received support and institutional backing from:
+
+- **[Instituto Tecnológico Metropolitano (ITM)](https://www.itm.edu.co)** — Medellín, Colombia
+- **[SENA](https://www.sena.edu.co)** — Servicio Nacional de Aprendizaje
+- **[Alcaldía de Medellín](https://www.medellin.gov.co)**
+
+The project was validated with real users at **Fundación Aula 5 Sentidos**, whose work with people with sensory disabilities gave Pibi its most important feedback: it has to work for the people who need it, not just on a workbench.
+
+### Acknowledgements
+
+To everyone at **Fundación Aula 5 Sentidos** who gave their time and trust to test this device — this project exists because of you.  
+To **ITM**, **SENA**, and the **Alcaldía de Medellín** for believing that open technology and accessibility belong together.  
+To every developer, teacher, and student who picks this up and takes it further.
 
 ---
 

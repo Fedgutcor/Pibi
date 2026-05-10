@@ -27,6 +27,12 @@ Celda Braille:      Pines Arduino:
 
 ---
 
+## Demo
+
+[![Demo de Pibi](https://img.youtube.com/vi/QXUs105ROPU/0.jpg)](https://www.youtube.com/watch?v=QXUs105ROPU)
+
+---
+
 ## Hardware
 
 | Componente | Descripción |
@@ -37,6 +43,22 @@ Celda Braille:      Pines Arduino:
 | Fuente de poder | 12V externa para los solenoides |
 
 Esquemático: [`hardware/schematic.pdf`](hardware/schematic.pdf)
+
+### Lista de materiales
+
+| Cant. | Componente | Referencia | Notas |
+|-------|------------|------------|-------|
+| 1 | Arduino Uno R3 | [Arduino Store](https://store.arduino.cc/products/arduino-uno-rev3) | o clon compatible |
+| 6 | Solenoide de empuje 5V/12V | JF-0530B o similar | uno por punto Braille |
+| 6 | Transistor NPN | TIP120 | para manejar los solenoides desde los pines del Arduino |
+| 6 | Diodo de protección | 1N4007 | protege los transistores de la corriente inversa de los solenoides |
+| 6 | Resistencia 1kΩ | — | resistencias de base para los transistores |
+| 1 | Fuente de poder 12V 2A | — | alimentación externa para los solenoides |
+| 1 | Cable USB Tipo-A a B | — | Arduino ↔ computador |
+| 1 | Protoboard 830 puntos | — | para prototipado |
+| 1 | Kit de cables dupont | — | macho-macho surtido |
+
+> Costo aproximado total: **USD $20–35** dependiendo de la fuente (AliExpress, MercadoLibre, o tienda local de electrónica).
 
 ![Matriz de LEDs](hardware/leds-matrix.png)
 ![Matriz de Vibradores](hardware/vibrator-matrix.png)

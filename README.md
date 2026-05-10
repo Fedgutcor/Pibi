@@ -27,6 +27,12 @@ Braille cell:       Arduino pins:
 
 ---
 
+## Demo
+
+[![Pibi Demo](https://img.youtube.com/vi/QXUs105ROPU/0.jpg)](https://www.youtube.com/watch?v=QXUs105ROPU)
+
+---
+
 ## Hardware
 
 | Component | Description |
@@ -37,6 +43,22 @@ Braille cell:       Arduino pins:
 | Power supply | External 12V for solenoids |
 
 Schematic: [`hardware/schematic.pdf`](hardware/schematic.pdf)
+
+### Bill of materials
+
+| Qty | Component | Reference | Notes |
+|-----|-----------|-----------|-------|
+| 1 | Arduino Uno R3 | [Arduino Store](https://store.arduino.cc/products/arduino-uno-rev3) | or compatible clone |
+| 6 | Push solenoid 5V/12V | JF-0530B or similar | one per Braille dot |
+| 6 | NPN transistor | TIP120 | to drive solenoids from Arduino pins |
+| 6 | Flyback diode | 1N4007 | protects transistors from solenoid back-EMF |
+| 6 | Resistor 1kΩ | — | transistor base resistors |
+| 1 | Power supply 12V 2A | — | external power for solenoids |
+| 1 | USB cable Type-A to B | — | Arduino ↔ computer |
+| 1 | Breadboard 830 points | — | for prototyping |
+| 1 | Jumper wire kit | — | male-to-male assorted |
+
+> Approximate total cost: **USD $20–35** depending on component source (AliExpress, MercadoLibre, or local electronics store).
 
 ![LED Matrix](hardware/leds-matrix.png)
 ![Vibrator Matrix](hardware/vibrator-matrix.png)

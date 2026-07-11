@@ -2,3 +2,6 @@
 *.swp
 *.bak
 build/
+
+.env
+.env.*

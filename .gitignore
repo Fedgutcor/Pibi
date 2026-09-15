@@ -5,3 +5,11 @@ build/
 
 .env
 .env.*
+
+# Security & Credentials
+*.env
+*.pem
+*.key
+*.p12
+secrets.*
+!.env.example
